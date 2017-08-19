@@ -1,4 +1,4 @@
-def print_hell():
-	print("Hell, World!")
+def print_hello():
+	print("Hello, World!")
 
-print_hell()
+print_hello()
